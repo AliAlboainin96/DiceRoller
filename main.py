@@ -2,8 +2,6 @@ import random
 import os
 import time
 
-
-
 while loop == True:
 
     # function to clear the console
