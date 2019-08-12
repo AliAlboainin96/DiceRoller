@@ -47,7 +47,7 @@ while loop == True:
     if loop == "yes" or "YES" or "y" or "Y":
         cls()
         loop == True
-    elif loop == "n" or "NO" or "n" or  "N":
+    elif loop == "n" or "NO" or "n" or  "N" or "quit" or "QUIT" or "exit" or "EXIT":
         cls()
         loop == False
         break
