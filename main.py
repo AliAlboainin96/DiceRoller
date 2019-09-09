@@ -2,7 +2,7 @@ import random
 import os
 import time
 
-while loop == True:
+while True:
 
     # function to clear the console
 
